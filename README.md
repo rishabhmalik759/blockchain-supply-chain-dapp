@@ -6,4 +6,4 @@ This project is developed for the learning purpose to understand a "Decentralize
 - Truffle
 - Solidity
 - ReactJS
-- Alchemy : for development ethereum node
+- Alchemy : ethereum node for development 
