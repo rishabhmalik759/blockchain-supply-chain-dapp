@@ -1,7 +1,9 @@
-# truffle-alchemy-ethereum-wallet
-This project can be used as a tutorial or starter to create DApps (Decentralized Applications)
+# Blockchain Supply Chain Project Demo
+This project is developed for the learning purpose to understand a "Decentralized Supply Chain" solution.
 
-# Getting Started
-1. Open terminal
-2. Clone the repo: git clone https://github.com/rishabhmalik759/truffle-alchemy-ethereum-wallet.git
-3. run npm i to install node packages
+
+## Tech Stack
+- Truffle
+- Solidity
+- ReactJS
+- Alchemy : for development ethereum node
