@@ -35,3 +35,6 @@ This project is developed for the learning purpose to understand a "Decentralize
 - Start the frontend
   ``cd blockchain-supply-chain-dapp/client``
   ``npm start``
+  
+- React frontend should be running on [http://localhost:3000](http://localhost:3000) 
+- Truffle development environment should be running on  [http://localhost:8545](http://localhost:8545)
